@@ -10,23 +10,59 @@ h1#bar_title {
     color: whitesmoke;
     background-color: black;
     width: 100%;
-    margin-left: -10px;
+    margin-left: -10px;   
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a#button1:hover {
+    color: black;
+    background: white;
+}
+
+a#button2:hover {
+    color: black;
+    background: white;
+}
+
+a#button1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    position: fixed;
+    left: 270px;
+    top: 11px;
+}
+
+a#button2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    position: fixed;
+    left: 360px;
+    top: 11px;
+}
+ 
+img#dog_img {
+    display: block;
+    margin: 0px auto;
+    
     
 }
 
-h#button1 {
-    font-family: sans-serif;
-    font-size: 20px;
-    color: whitesmoke;
-    position: fixed;
-    left: 400px;
-    top: 11px;
+img#plug {
+    display: block;
+    margin: 0px auto;    
 }
-h#button2 {
-    font-family: sans-serif;
-    font-size: 20px;
-    color: whitesmoke;
-    position: fixed;
-    left: 500px;
-    top: 11px;
-}
+
+
+
+
+
+
+
+
+
+

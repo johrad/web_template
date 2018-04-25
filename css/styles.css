@@ -1,0 +1,32 @@
+body {
+    background-color: whitesmoke;
+}
+   
+h1#bar_title {
+    font-family: sans-serif;
+    font-size: 14;
+    position: fixed;
+    top: -20px;
+    color: whitesmoke;
+    background-color: black;
+    width: 100%;
+    margin-left: -10px;
+    
+}
+
+h#button1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    position: fixed;
+    left: 400px;
+    top: 11px;
+}
+h#button2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+    position: fixed;
+    left: 500px;
+    top: 11px;
+}

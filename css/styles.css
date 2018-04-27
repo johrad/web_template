@@ -58,7 +58,9 @@ img#plug {
     
 }
 
-
+img#plug:hover {
+    filter: invert(50%)
+}
 
 
 
